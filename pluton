@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>nombre</title>
+    <style>
+        body {
+            background-color: #1f7e99; /* Color celeste claro */
+        }
+    </style>
+</head>
+<body>
+    <h2>Dayana Guadalupe Meza García</h2>
+</body>
+</html>
